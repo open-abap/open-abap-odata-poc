@@ -22,6 +22,7 @@
     "check_syntax": true,
     "cloud_types": true,
     "global_class": true,
+    "description_empty": true,
     "implement_methods": true,
     "method_implemented_twice": true,
     "parser_error": true,
