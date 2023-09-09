@@ -1,0 +1,7 @@
+CLASS zcx_mgw_base_exception DEFINITION INHERITING FROM cx_static_check PUBLIC.
+  PUBLIC SECTION.
+ENDCLASS.
+
+CLASS zcx_mgw_base_exception IMPLEMENTATION.
+
+ENDCLASS.
